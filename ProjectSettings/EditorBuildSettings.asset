@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Assets/Scenes/TestArea.unity
+    guid: 0009f22eff64e9842badbf2ef92d0813
+  - enabled: 1
+    path: Assets/Assets/Scenes/MainMenu.unity
+    guid: 855886f82ff75ac4da51e7c8acdf1404
+  - enabled: 1
+    path: Assets/Assets/Scenes/Settings.unity
+    guid: 80f6f40410defb64bbbdb1dcd11955c6
+  - enabled: 1
+    path: Assets/Assets/Scenes/Credits.unity
+    guid: b5d4c82e5ce6b764495c0ad5425ab191
+  - enabled: 1
+    path: Assets/Assets/Scenes/LevelSelect.unity
+    guid: ffcf35bdd74cb2f4cb1511e827d36d87
+  - enabled: 1
+    path: Assets/Assets/Scenes/BlueLevel.unity
+    guid: 51ce5a9fea364304b8db068542afff83
+  - enabled: 1
+    path: Assets/Assets/Scenes/BlueLevel2.unity
+    guid: c194ecd025e2afa41afd75715d7da6f7
+  - enabled: 1
+    path: Assets/Assets/Scenes/BlueLevel3.unity
+    guid: df36a9cb50b67594385111f5866b13ac
+  - enabled: 1
+    path: Assets/Assets/Scenes/GreenLevel.unity
+    guid: 2e54f1b9c2e154c4483a29f19b2c59ed
+  - enabled: 1
+    path: Assets/Assets/Scenes/GreenLevel2.unity
+    guid: 073d29c20e20ff04dbf58f88f41d4dee
+  - enabled: 1
+    path: Assets/Assets/Scenes/GreenLevel3.unity
+    guid: 3cfb410d12ce9494fa17074f33047fb9
+  - enabled: 1
+    path: Assets/Assets/Scenes/RedLevel.unity
+    guid: 630eb428d4fb256408adc48a368a6d89
+  - enabled: 1
+    path: Assets/Assets/Scenes/RedLevel2.unity
+    guid: 10d41cc92267cf0468e5882fcf16c468
+  - enabled: 1
+    path: Assets/Assets/Scenes/RedLevel3.unity
+    guid: 964b831f0c2d0614698efd187d219ece
+  - enabled: 1
+    path: Assets/Assets/Scenes/GameOver.unity
+    guid: e65adb20a63454246954172f74ae3b0b
